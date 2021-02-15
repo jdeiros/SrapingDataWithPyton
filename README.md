@@ -19,4 +19,6 @@ Instalar con pip3 install: pip3 para version Python 3.8.3 32-bit
 2. Instalar la libreria requests que permite manipular archivos html (grap html: agarrar html)
 > pip3 install requests
 
-
+#### para hacer el send con la casilla de correo tuve que configurar la cuenta de google que creé
+    https://myaccount.google.com/lesssecureapps
+    Permitir el acceso de apps menos seguras: SÍ
